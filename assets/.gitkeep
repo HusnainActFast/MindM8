@@ -1,0 +1,14 @@
+# Assets Directory
+
+This directory will contain:
+- icon.png (app icon)
+- splash.png (splash screen)
+- adaptive-icon.png (Android adaptive icon)
+- favicon.png (web favicon)
+
+For now, Expo will use default placeholders.
+
+To add custom assets:
+1. Create your icon images (1024x1024 recommended)
+2. Place them in this directory
+3. Update app.json if needed
